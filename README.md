@@ -1,4 +1,4 @@
-This repo contains c++ codes to build android app like below
+This repo contains c++ codes to build android app like this
 ![screenshot of android app](%5Bhttps://github.com/yopot/raj/blob/main/output.jpg?raw=true%5D%28https://github.com/yopot/raj/blob/main/src/main/output.jpg?raw=true%29)
  - It uses custom c++ android native glue code
  - It uses OpenGL for user interface
