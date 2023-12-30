@@ -12,5 +12,3 @@ The user code is in [here](https://github.com/yopot/raj/blob/main/src/main/cpp/s
 
 It uses tinygltf library to load glb file to display texts.
 this library can be used to create user interface using opengl in all screens (android, desktop, etc)
-
-feel free to check and make your own code out of this
